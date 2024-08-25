@@ -8,7 +8,7 @@
 O **Churrascômetro** é uma aplicação simples desenvolvida para ajudar na organização de churrascos. Com base no número de adultos, crianças e na duração do evento, a aplicação calcula as quantidades necessárias de carne, cerveja e bebidas não alcoólicas. É uma ferramenta prática para quem deseja planejar eventos de forma eficiente, evitando desperdícios ou falta de suprimentos.
 
 ## Instruções de Como Executar a Aplicação
-- Entre com a quantidade de Adultos, crianças e horas do envento e clicque no botao de calcular!
+- Entre com a quantidade de Adultos, crianças e horas do envento e clique no botao de calcular!
 
 ## Tecnologias Utilizadas
 
